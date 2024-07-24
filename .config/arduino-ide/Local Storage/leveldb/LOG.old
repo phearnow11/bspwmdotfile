@@ -1,8 +1,0 @@
-2024/02/26-12:32:27.656 2f855 Reusing MANIFEST /home/phrimp/.config/arduino-ide/Local Storage/leveldb/MANIFEST-000001
-2024/02/26-12:32:27.656 2f855 Recovering log #4
-2024/02/26-12:32:27.656 2f855 Level-0 table #6: started
-2024/02/26-12:32:27.661 2f855 Level-0 table #6: 18992 bytes OK
-2024/02/26-12:32:27.661 2f855 Recovering log #6
-2024/02/26-12:32:27.661 2f855 Reusing old log /home/phrimp/.config/arduino-ide/Local Storage/leveldb/000006.log 
-2024/02/26-12:32:27.666 2f855 Delete type=2 #7
-2024/02/26-12:32:27.666 2f855 Delete type=0 #4

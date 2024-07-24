@@ -1,6 +1,0 @@
-[Default Applications]
-font/ttf=Alacritty.desktop
-
-[Added Associations]
-font/ttf=Alacritty.desktop;
-font/otf=org.gnome.FileRoller.desktop;Alacritty.desktop;
