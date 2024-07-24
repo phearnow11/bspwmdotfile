@@ -1,0 +1,5 @@
+2024/07/24-20:36:39.518 119b Reusing MANIFEST /home/phrimp/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/24-20:36:39.528 119b Recovering log #139
+2024/07/24-20:36:39.566 119b Level-0 table #142: started
+2024/07/24-20:36:39.607 119b Level-0 table #142: 3094022 bytes OK
+2024/07/24-20:36:39.613 119b Delete type=0 #139

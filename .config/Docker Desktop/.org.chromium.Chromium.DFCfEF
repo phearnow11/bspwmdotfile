@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"anonymization":[],"server":"https://redirector.gvt1.com","supports_spdy":true}],"supports_quic":{"address":"2001:ee0:51db:1690:8104:3287:7c09:717b","used_quic":true},"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"4G"}}}

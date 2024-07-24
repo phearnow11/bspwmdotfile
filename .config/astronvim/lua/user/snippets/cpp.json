@@ -1,0 +1,10 @@
+{
+  "test": {
+    "prefix": "go",
+    "body": [
+      "int main() { ",
+      "}"
+    ],
+    "description": "test"
+  }
+}

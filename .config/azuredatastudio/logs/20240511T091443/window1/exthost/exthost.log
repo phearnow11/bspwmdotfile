@@ -1,0 +1,10 @@
+2024-05-11 09:14:45.909 [info] Extension host with pid 523579 started
+2024-05-11 09:14:45.997 [info] ExtensionService#_doActivateExtension Microsoft.azurecore, startup: true, activationEvent: '*'
+2024-05-11 09:14:46.385 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-11 09:14:46.387 [info] ExtensionService#_doActivateExtension Microsoft.mssql, startup: true, activationEvent: '*'
+2024-05-11 09:14:46.579 [info] ExtensionService#_doActivateExtension Microsoft.notebook, startup: true, activationEvent: '*'
+2024-05-11 09:14:46.812 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-11 09:14:46.871 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-11 09:14:46.937 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-11 09:14:48.549 [info] Eager extensions activated
+2024-05-11 09:14:48.553 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

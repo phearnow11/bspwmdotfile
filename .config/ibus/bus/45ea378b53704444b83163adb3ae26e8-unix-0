@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:path=/home/phrimp/.cache/ibus/dbus-bTnTs1MG,guid=182973acd909763a025f2b7865ad0d79
+IBUS_DAEMON_PID=1088
